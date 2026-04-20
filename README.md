@@ -38,18 +38,14 @@ Des objets ramassables sont présents pour modifier les statistiques ou capacit�
 Le jeu propose deux types d'Intelligence Artificielle :
 
 Ennemi de Patrouille : Se déplace selon un itinéraire fixe (va-et-vient) .
-Ennemi de Traque (Radius) : Reste immobile, mais se met à poursuivre activement le joueur dès que celui-ci entre dans son rayon de détection.
+Ennemi de Traque : Reste immobile, mais se met à poursuivre activement le joueur dès que celui-ci entre dans son rayon de détection.
 
 ## Liste des Pièges
 
-L'environnement est parsemé d'obstacles mortels pour corser le défi :
+j'ai fait tout un ensemble de piège :
 
 Piques : Fixes au sol ou au plafond, infligent des dégâts immédiats au contact.
-
 Lanceur de flèches : Mécanisme tirant des projectiles à intervalles réguliers.
-
 Piège de feu : Jet de flammes déclenchée des que le joueur est détectée au contact.
-
 Scie : Obstacle mobile suivant un mouvement horizontal.
-
 Spikeheads : Blocs épineux qui foncent sur le joueur lorsqu'il est détecté à proximité.
