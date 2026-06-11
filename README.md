@@ -1,4 +1,4 @@
-# Premiére_relase_Video_game
+# Deuxième_relase_Video_game
 # Documentation du Jeu
 
 ## Structure de la Démo:
@@ -18,6 +18,17 @@ Le moteur de jeu intègre un système de physique gérant :
 Les déplacements horizontaux et le saut.
 Une détection de collision précise avec le décor (sol, murs, plafonds).
 La gestion de la friction et de la gravité pour un ressenti fluide.
+
+## Nouveauté : Cross-Platform & Support Mobile
+Le jeu intègre désormais le New Input System d'Unity, le rendant jouable sur de multiples plateformes (PC et mobile) :
+
+Support Universel : Jouable au Clavier/Souris, à la Manette(non testée) et sur Écran Tactile.
+
+Interface Mobile : Format paysage forcé. L'interface tactile se masque automatiquement si le jeu est lancé sur PC.
+
+Joystick Dynamique : Un joystick de déplacement flottant qui apparaît exactement là où le joueur pose son pouce.
+
+Boutons d'Action avec contexte : Les boutons tactiles pour faire les action, les capacités spéciales  n'apparaissent sur l'écran qu'une fois la capacité débloquée en jeu.
 
 ## Système de Vie:
 
