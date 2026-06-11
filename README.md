@@ -42,7 +42,13 @@ Ennemie: les ennemie peuvent être tuée.
 
 ## Système de Power-ups
 
-Des objets ramassables sont présents pour modifier les statistiques ou capacités du joueur (ex : double saut, wall-climb et dash ).
+Des objets ramassables sont présents dans les niveaux pour modifier les statistiques ou capacités du joueur.
+
+  -Double Saut
+
+  -Wall-climb (Saut mural)
+
+  -Dash
 
 ## Ennemis
 
